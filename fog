@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+	 
+	 
+     <title>Mogo</title>
+</head>
+<body>
+	<h1>Mogo</h1>
+</body>
+</html>
+
+
+
+
+
+
+
+
+<style>
+body { 
+    background: red;
+}
+</style>
+<script>
+
+</script>
